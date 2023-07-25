@@ -1,0 +1,21 @@
+* {
+    background-color: beige;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.lists {
+    text-align: center;
+    align-items: center;
+    background-color: burlywood;
+    width: 250px;
+    height: auto;
+    margin: auto;
+}
+div{
+    border-color: black;
+    background-color: aliceblue;
+}
