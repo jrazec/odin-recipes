@@ -22,6 +22,7 @@ h1.header{
 
 img {
     width: 205px;
+    height: 136px;
     border-top-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-style: solid;
@@ -44,6 +45,8 @@ img {
     margin-bottom: 0px;
     font-size: 20px;
 }
+
+
 footer,
 a {
     font-size: small;
@@ -51,6 +54,12 @@ a {
     color: white;
     background-color: gray;
     margin-bottom: 0;
+    margin-top: 0px;
     padding-bottom: 20px;
-    padding-left: ;
+    padding-left: 20px;
+}
+
+hr {
+    padding: 0px;
+    margin: 0px;
 }
